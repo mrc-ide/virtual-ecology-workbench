@@ -17,6 +17,10 @@ development. So, here it is, still in usable form in Java, although there is amp
 * See `c.bat` or `c.sh` to compile the VEW.
 * See `vew.bat` or `vew.sh` to run the VEW.
 
+## Input Data
+
+* Yes... I haven't worked out how to make several gigabytes of input data available. Get in touch...
+
 ## Documentation
 
 To be updated when I have more time. (Post-covid).
